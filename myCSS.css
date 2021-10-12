@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* This is a comment! Text here will be ignored by the browser. */
 body {   
-	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;	
+	font: 100%/1.4 Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;	
 	margin: 0 auto;
 }
 .homePage {
@@ -12,7 +12,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background:#E8D5B3;
+	background:#D9C3D8;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -22,7 +22,7 @@ body {
 	
 }
 .nav {
-	background: #F7F8FD;
+	background: #B9CFDA;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -38,7 +38,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #F0E5DF;
+	background: #F5E2D8;
 	margin: 0px;
 	float: left;
 	width: 100%;
