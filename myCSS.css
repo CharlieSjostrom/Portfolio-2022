@@ -12,7 +12,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background:#D9C3D8;
+	background:#00065E;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -31,14 +31,14 @@ body {
 	text-align: center;
 }
 .content {
-	background: #EDEACB;
+	background: #9E9D98;
 	margin: 0px;
 	float: left;
 	width: 100%;
 	text-align: center;
 }
 .footer {
-	background: #F5E2D8;
+	background: #00065E;
 	margin: 0px;
 	float: left;
 	width: 100%;
