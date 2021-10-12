@@ -50,8 +50,9 @@ a:link {
      color: #023000;
 }
 a:visited {
-     color: #FFFFFF;
+     color: #002938;
 }
 a:hover, a:active, a:focus { 
-     text-decoration: underline#00049E;
+     text-decoration: underline
+	     color: #FFFFFF
 }
